@@ -13,7 +13,6 @@ A SQL-based Retail Management System project designed to simulate real-world ret
 ## SQL Concepts Used
 - Joins
 - Aggregate Functions
-- Window Functions
 - Views
 - Stored Procedures
 - Indexing
